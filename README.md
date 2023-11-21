@@ -1,4 +1,4 @@
-# NetMaze Explorer (Implemented and Managed Virtual Networking)
+Implemented and Managed Virtual Networking
 
 Designed a hybrid networking environment where on-premises networks connected securely to Azure resources using Azure's networking capabilities, ensuring secure data transition and effective resource access controls.
 
